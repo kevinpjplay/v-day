@@ -14,10 +14,7 @@ const noMessages = [
     "Sayangg serius? 🤔",
     "SERIUSS???",
     "B sedih sih sayanggg",
-    ":((((",
-    "Please??? 💔",
-    "Sayangg tolongg saa",
-    "Kesempatan Terakhir 😭",
+    "plisss :((((",
     "HAHAHA coba tekan kalo bisa"
 ]
 
